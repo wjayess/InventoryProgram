@@ -1,0 +1,1 @@
+Seeds 1 3 Limes 2 6 Nails 900 2000 Hoe 234 2 Rake 357 5 Saw 876 4 Screwdriver 248 20 Pliers 800 15 
